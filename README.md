@@ -21,7 +21,7 @@ At a bare minimum you'll need the following things on your laptop:
 
 During the lab we are going to require some components that the lecturer will provide. Among these things are components for service registration and discovery and other parts that are typically provided by the deployment environment.
 
-These components will be made available as shared services throughout the room. However if you plan to some if it on your own hardware then we recommend the following additional components:
+These components will be made available as shared services throughout the room. However if you plan to use some of it on your laptop, then we recommend the following additional components:
 
 - [Docker](https://www.docker.com/)
 - [Consul](https://hub.docker.com/r/progrium/consul/)
@@ -30,7 +30,7 @@ These components will be made available as shared services throughout the room. 
 
 We are running on a shared WIFI at the lab location, so preparing your local maven repo upfront can save you valuable time at the workshop.
 
-The most simple way to prepare your repo with the bulk of things needed, is to build one of the WildFly Swarm examples:
+The most simple way to prepare your local repository, is to build one of the WildFly Swarm examples:
 
 1) Checkout the WildFly Swarm examples
 
@@ -62,9 +62,9 @@ It's therefore recommended that you read up about microservices concepts to some
 
 Your feedback and questions during the workshop will help to drive the direction of the activities and and make it valuable experience for everybody attending.
 
-Some resources that we can recommend to get you started.
+The following is a list of resources that we can recommend to get you started.
 
-*Short, online articles:*
+*Online articles*
 - Eberhard Wolff, "Microservices Primer": https://leanpub.com/microservices-primer
 - Martin Fowler, "Microservices in a Nutshell":  https://www.thoughtworks.com/de/insights/blog/microservices-nutshell
 
