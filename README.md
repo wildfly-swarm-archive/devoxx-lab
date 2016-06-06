@@ -54,6 +54,12 @@ cd ../jpa-jaxrs-cdi/
 mvn clean install
 ```
 
+## The lab sources
+
+The source code for the lab will be provided on Friday. If you have any questions upfront, don't hesitate to contact us here:
+
+https://groups.google.com/forum/?nomobile=true#!forum/wildfly-swarm
+
 ## Reading on microservices concepts
 
 We will cover general microservice concepts during the lab to some extend, but cannot fully cover the wide range of concepts and ideas that relate to it without sacrificing time for practical activities.
@@ -78,3 +84,10 @@ The following is a list of resources that we can recommend to get you started.
 
 *OpenShift*
 - OpenShift Origin: https://www.openshift.org/
+
+
+# Questions?
+
+If you have nay questions before the lab, contact us here:
+
+https://groups.google.com/forum/?nomobile=true#!forum/wildfly-swarm
