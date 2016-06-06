@@ -88,6 +88,6 @@ The following is a list of resources that we can recommend to get you started.
 
 # Questions?
 
-If you have nay questions before the lab, contact us here:
+If you have any questions before the lab, contact us here:
 
 https://groups.google.com/forum/?nomobile=true#!forum/wildfly-swarm
